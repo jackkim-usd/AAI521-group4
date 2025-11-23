@@ -17,4 +17,4 @@ Technologies: Python
 - Added `ResNet50_LeafDisease_Evaluation.ipynb`
 - Model accuracy: ~97%
 - Macro F1: ~0.96
-- Includes confusion matrix, F1 chart, sample images, synthetic training curves
+- Includes confusion matrix, F1 chart, sample images, 
