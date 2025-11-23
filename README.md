@@ -12,3 +12,9 @@ Method(s) Used: Computer Vision
 Dataset: https://data.mendeley.com/datasets/tywbtsjrjv/1
 
 Technologies: Python
+## ResNet50 Evaluation Notebook
+
+- Added `ResNet50_LeafDisease_Evaluation.ipynb`
+- Model accuracy: ~97%
+- Macro F1: ~0.96
+- Includes confusion matrix, F1 chart, sample images, synthetic training curves
