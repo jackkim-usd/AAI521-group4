@@ -12,11 +12,6 @@ Method(s) Used: Computer Vision
 Dataset: https://data.mendeley.com/datasets/tywbtsjrjv/1
 
 Technologies: Python
-## ResNet50 Evaluation Notebook
-
-- Added `ResNet50_LeafDisease_Evaluation.ipynb`
-- Model accuracy: ~97%
-- Macro F1: ~0.96
-- Includes confusion matrix, F1 chart, sample images, 
+## ResNet50 Evaluation Notebook 
 
 On the 10k / 2k / 2k subset of the augmented 39-class dataset, the ResNet50 model reached validation accuracy 0.9634 (val loss 0.1092) and test accuracy 0.9595 (test loss 0.1241). On the 2,000-image test set, overall accuracy was 0.9580, with macro F1 = 0.9544 and weighted F1 = 0.9585. Added ResNet50_LeafDisease_Subset_Augmented.ipynb to train and evaluate this subset model and generate the associated metrics and plots.
